@@ -1,0 +1,11 @@
+function- a “chunk” of code that you can use over and over again, rather than writing it out multiple times.
+function declaration-  tells the compiler about a function's name, return type, and parameters.
+function call- an expression that passes control and arguments (if any) to a function
+arguments- a value that is passed between programs, subroutines or functions.
+type casting- When the conversion automatically performs by the compiler without the programmer's interference, it is called implicit type casting or widening casting.
+converation
+implict conversion- an automatic type conversion done by the compiler whenever data from different types is intermixed.
+explicit conversation- a process of passing information to the compiler that the program is trying to perform conversion with the knowledge of possible data loss.
+modulo- returns the remainder or signed remainder of a division, after one number is divided by another
+constant- 
+Data values that stay the same every time a program is executed 
